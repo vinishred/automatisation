@@ -1,2 +1,5 @@
 npm test
+
+npm run test:unit
+
 echo "tu es un champion du commit"
